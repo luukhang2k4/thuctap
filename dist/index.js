@@ -21,8 +21,8 @@ getProducts()
             <p class="price_text">Price <span style="color: #262626;">VNĐ ${product.price}</span></p>
             <div class="tshirt_img"><img src="/images/${product.image}" alt="${product.name}"></div>
             <div class="btn_main">
-              <div class="buy_bt"><a href="#">Buy Now</a></div>
-              <div class="seemore_bt"><a href="#">See More</a></div>
+              <div class="buy_bt"><a href="#">Mua ngay</a></div>
+              <div class="seemore_bt"><a href="#">Chi tiết</a></div>
             </div>
           </div>
         </div>
